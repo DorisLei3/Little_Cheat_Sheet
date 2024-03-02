@@ -2,3 +2,6 @@ SQL Cheat Sheet
 1. Choose odd or even id
 WHERE (id % 2) != 0  ## odd number
 WHERE (id % 2) == 0  ## even number
+
+Change to 0 if null
+IFNULL(desire number, 0)
