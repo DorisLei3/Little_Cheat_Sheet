@@ -5,3 +5,6 @@ WHERE (id % 2) == 0  ## even number
 
 Change to 0 if null
 IFNULL(desire number, 0)
+
+2. Date, time. YEAR(), MONTH(), DAY()
+HOUR()
