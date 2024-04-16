@@ -8,3 +8,7 @@ IFNULL(desire number, 0)
 
 2. Date, time. YEAR(), MONTH(), DAY()
 HOUR()
+
+
+WITH cte AS
+
